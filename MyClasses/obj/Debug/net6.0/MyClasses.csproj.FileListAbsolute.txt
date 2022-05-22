@@ -1,0 +1,12 @@
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/bin/Debug/net6.0/MyClasses.deps.json
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/bin/Debug/net6.0/MyClasses.dll
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/bin/Debug/net6.0/MyClasses.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.csproj.AssemblyReference.cache
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.AssemblyInfoInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.AssemblyInfo.cs
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.csproj.CoreCompileInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.dll
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/refint/MyClasses.dll
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/MyClasses.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task8/Tasks/MyClasses/obj/Debug/net6.0/ref/MyClasses.dll
